@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=WELCOME%20&fontSize=90)
-##### 👋 안녕하세요 프론트/백엔드 개발자를 꿈꾸는 개발자 꿈나무 박은주입니다.
-<div style="display: flex; justify-content: center;">
+##### 👋 안녕하세요 프론트/백엔드 개발자를 꿈꾸는 박은주입니다.
+<div style="justify-content: center;">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFF"/>
