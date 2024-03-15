@@ -3,6 +3,9 @@
 <div align="center">
     <h3 align="center">
       👋 안녕하세요! 프론트/백엔드 개발자를 꿈꾸는 박은주입니다.
+    </h3>
+    <h3 align="center">
+        Ⓜ️ pej6224@gmail.com
     </h3> <br> <br> <br> 
     <h3 align="center">
       ⚙️ Tech Stack ⚙️
