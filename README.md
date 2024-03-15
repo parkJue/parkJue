@@ -36,7 +36,7 @@
     <a href="https://velog.io/@parkeu">
         <img src="https://velog-readme-stats.vercel.app/api/badge?name=Velog" />
     </a> <br>
-    <a href="https://standing-cheque-70a.notion.site/0cbdd5173aba4bb38445c5b97312299c?pvs=4">
+<!--     <a href="https://standing-cheque-70a.notion.site/0cbdd5173aba4bb38445c5b97312299c?pvs=4">
         <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-    </a>
+    </a> -->
 </div>
