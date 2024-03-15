@@ -3,7 +3,7 @@
 <div align="center">
     <h3 align="center">
       👋 안녕하세요! 프론트/백엔드 개발자를 꿈꾸는 박은주입니다.
-    </h3> 
+    </h3> <br> <br> <br> 
     <h3 align="center">
       ⚙️ Tech Stack ⚙️
     </h3>
@@ -38,8 +38,4 @@
     <a href="https://standing-cheque-70a.notion.site/0cbdd5173aba4bb38445c5b97312299c?pvs=4">
         <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
     </a>
-</div>
-
-<div align="center">
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@parkeu)
 </div>
