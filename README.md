@@ -25,9 +25,14 @@
   <h3 align="center">
     📌 Me 📌
   </h3>
-  <img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@parkeu" /> <br>
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://standing-cheque-70a.notion.site/0cbdd5173aba4bb38445c5b97312299c?pvs=4" />
+    <a href="https://velog.io/@parkeu">
+        <img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white" />
+    </a>
+    <a href="https://standing-cheque-70a.notion.site/0cbdd5173aba4bb38445c5b97312299c?pvs=4">
+        <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+    </a>
 </div>
+
 
 
 
