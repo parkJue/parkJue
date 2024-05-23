@@ -1,11 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=WELCOME%20&fontSize=90)
+<!-- ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=WELCOME%20&fontSize=90) -->
 <div align="center">
-    <h3 align="center">
+    <br><br>
+    <h4 align="center">
       👋 안녕하세요! 프론트/백엔드 개발자를 꿈꾸는 박은주입니다.
-    </h3>
-    <h3 align="center">
+    </h4>
+    <h5 align="center">
         Ⓜ️ pej6224@gmail.com
-    </h3> <br> <br> <br> 
+    </h5> <br> <br> <br> 
     <h3 align="center">
       ⚙️ Tech Stack ⚙️
     </h3>
